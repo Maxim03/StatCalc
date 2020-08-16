@@ -1,0 +1,10 @@
+c:\users\student.lan\source\repos\StatCalc1\StatCalc1\bin\Debug\StatCalc1.exe.config
+c:\users\student.lan\source\repos\StatCalc1\StatCalc1\bin\Debug\StatCalc1.exe
+c:\users\student.lan\source\repos\StatCalc1\StatCalc1\bin\Debug\StatCalc1.pdb
+c:\users\student.lan\source\repos\StatCalc1\StatCalc1\obj\Debug\StatCalc1.csprojAssemblyReference.cache
+c:\users\student.lan\source\repos\StatCalc1\StatCalc1\obj\Debug\StatCalc1.Form1.resources
+c:\users\student.lan\source\repos\StatCalc1\StatCalc1\obj\Debug\StatCalc1.Properties.Resources.resources
+c:\users\student.lan\source\repos\StatCalc1\StatCalc1\obj\Debug\StatCalc1.csproj.GenerateResource.cache
+c:\users\student.lan\source\repos\StatCalc1\StatCalc1\obj\Debug\StatCalc1.csproj.CoreCompileInputs.cache
+c:\users\student.lan\source\repos\StatCalc1\StatCalc1\obj\Debug\StatCalc1.exe
+c:\users\student.lan\source\repos\StatCalc1\StatCalc1\obj\Debug\StatCalc1.pdb
